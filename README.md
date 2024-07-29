@@ -7,7 +7,7 @@ Graduated with a B.S. degree in Computer Science from the [University of Informa
 ## Projects 
 
 ### BillyBot
-BillyBot is a RAG-based AI assistant. 
+BillyBot is a RAG-based AI assistant. (worked together with [Myat Noe Htet](https://github.com/cherish-noe))
 
 https://github.com/cherish-noe/billybot
 
@@ -24,8 +24,8 @@ Fine-tune OpenAI's CLIP model for classification tasks on a subset of the ImageN
 https://github.com/myatthukyaw/finetune-clip
 
 
-### Contact me
+## Contact me
 
-Email - myatthukyaw.dev@gmail.com
-GitHub - www.github.com/myatthukyaw
-LinkedIn - www.linkedin.com/in/myatthukyaw
+- Email - myatthukyaw.dev@gmail.com
+- GitHub - www.github.com/myatthukyaw
+- LinkedIn - www.linkedin.com/in/myatthukyaw
